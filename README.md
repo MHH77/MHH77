@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MHH77
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Java - python for AI
-- 💞️ I’m looking to collaborate on.. NOT NOW :)
+- 💞️ I’m looking to collaborate on.
 - 📫 How to reach me mesfandiari77@gmail.com . I will be happy(●'◡'●)
 
 <!---
