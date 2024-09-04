@@ -1,7 +1,7 @@
- • Building scalable applications with Java and Spring Boot 
- • Exploring cloud technologies like AWS and Azure 
- • Advocate for test-driven development and continuous integration 
- • Always learning new frameworks and libraries to stay up-to-date 
+- Building scalable applications with Java and Spring Boot 
+- Exploring cloud technologies like AWS and Azure 
+- Advocate for test-driven development and continuous integration 
+- Always learning new frameworks and libraries to stay up-to-date 
 <!---
 MHH77/MHH77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
