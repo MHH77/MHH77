@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
     <img width="50" src="https://skillicons.dev/icons?i=aws" />
     <img width="50" src="https://skillicons.dev/icons?i=react" />
     <img width="50" src="https://skillicons.dev/icons?i=js" />
+    <img width="50" src="https://skillicons.dev/icons?i=powershell" />
     <img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" />
     <img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" />
     <img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" />
